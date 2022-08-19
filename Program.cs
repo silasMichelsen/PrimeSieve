@@ -93,7 +93,6 @@ namespace PrimeSieve
                             numbers[num - 1] = true;
                         }
                     }
-
                     Console.WriteLine();
                 }
 
@@ -124,11 +123,5 @@ namespace PrimeSieve
             Console.WriteLine("End of program");
             Console.ReadKey();
         } // end main
-
-
-
-
-
-    }
-
-}
+    } // end program
+} // end PrimeSieve
